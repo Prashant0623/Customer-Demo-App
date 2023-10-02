@@ -1,0 +1,6 @@
+package com.Prashant.CRUDOp.entity;
+
+public enum MessageCode {
+	SUCCESS, FAILURE, DATA_VALIDATION_ERROR, NULL_REQUEST_PASSED, CONTRACT_TYPE_NOT_FOUND
+
+}
